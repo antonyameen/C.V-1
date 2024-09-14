@@ -1,0 +1,153 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p-definition
+{
+    text-align: center;
+    font-size: 30px;  
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+  
+}
+.div-info
+{
+    align-items: center;
+    text-align: center;
+}
+.info
+{
+  font-weight: bold;  
+}
+.div-info2
+{
+    align-items: center;
+    text-align: center;
+}
+.info2
+{
+  font-weight: bold;  
+}
+.link
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;  
+}
+.div-obg
+{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+.obg
+{
+    border-bottom: 2px solid black;
+}
+.p-obg
+{
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s-obg
+{
+    font-weight:bolder; 
+    font-size: 22px;
+}
+.div-skil
+{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+.skil
+{
+    border-bottom: 2px solid black;
+}
+.p-skil
+{
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div-edu
+{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+.edu
+{
+    border-bottom: 2px solid black;
+}
+.s-edu
+{
+    font-weight:bold; 
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.s1
+{
+margin-right: 900px;
+}
+.p-edu
+{
+    font-weight:bold; 
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-add
+{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+.add
+{
+    border-bottom: 2px solid black;
+}
+.p-add
+{
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div-pro
+{
+margin-left: 40px;
+margin-right: 40px;
+}
+
+
+.pro
+{
+    border-bottom: 2px solid black;
+}
+.s-pro
+{
+    margin-left: 3px;
+    margin-right: 30px;
+    margin-bottom: 1px;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a-pro
+{
+    color: black;
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    margin-bottom: 1px;
+    text-decoration: none;
+    border-bottom: 2px solid black;
+}
+.p-pro
+{
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: .8px;
+}
